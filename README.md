@@ -11,5 +11,3 @@ REACT_APP_ICO_ADDRESS =
 REACT_APP_INFURA_KEY =
 
 You can find smart contract on:
-
-https://github.com/free-guru/ICO-smart-contract
